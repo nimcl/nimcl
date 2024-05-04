@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou a Nicole
-- 🌱 Atualmente estou aprendendo Python e Inglês
+- 🌱 Atualmente estou aprendendo Python
 - 😄 Pronomes: Ela, Dela
 - 🎓 Engenharia da Computação - Unifatec
 
